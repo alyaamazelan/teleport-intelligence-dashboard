@@ -35,4 +35,32 @@ This dashboard answers three questions:
 
 ---
 
+teleport-intelligence-dashboard/
+├── notebook.ipynb       ← main Colab notebook
+├── data/
+│   └── teleport_cargo_data.csv   ← simulated dataset
+├── outputs/
+│   └── shortfall_by_route.png    ← sample chart
+└── README.md
+
+---
+
+## 🛠️ Tools Used
+Python · Pandas · NumPy · Matplotlib · Scikit-learn · Google Colab
+
+---
+
+## 📊 Dataset
+Simulated cargo dataset — 1,296 records · 10 routes · 
+10 customers · 26 weeks (6 months)
+
+*Note: All data is simulated. No real Teleport data is used.*
+
+---
+
+## 👤 Author
+**Alyaa Mazelan** — Assistant Manager & Commercial Product Owner  
+Building toward: Head of Product @ a data-driven logistics company  
+GitHub: github.com/alyaamazelan
+
 ## 📁 Project Structure
